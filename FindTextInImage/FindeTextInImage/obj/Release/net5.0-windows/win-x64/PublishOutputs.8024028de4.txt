@@ -1,0 +1,16 @@
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\FindeTextInImage.pdb
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\tessdata\eng.traineddata
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\x86\leptonica-1.82.0.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\x86\tesseract50.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\x64\leptonica-1.82.0.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\x64\tesseract50.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\clrcompression.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\clrjit.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\coreclr.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\mscordaccore.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\D3DCompiler_47_cor3.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\PenImc_cor3.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\PresentationNative_cor3.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\vcruntime140_cor3.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\wpfgfx_cor3.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\Release\net5.0-windows\publish\FindeTextInImage.exe

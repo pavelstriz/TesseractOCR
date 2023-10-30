@@ -1,0 +1,11 @@
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\tessdata\eng.traineddata
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\FindeTextInImage.exe
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\x86\leptonica-1.82.0.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\x86\tesseract50.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\x64\leptonica-1.82.0.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\x64\tesseract50.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\FindeTextInImage.dll
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\FindeTextInImage.deps.json
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\FindeTextInImage.runtimeconfig.json
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\FindeTextInImage.pdb
+Z:\__Pavel\Projects\_Visual Studio\C#\FindeTextInImage\FindeTextInImage\bin\publish\Tesseract.dll
